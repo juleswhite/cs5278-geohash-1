@@ -5,7 +5,7 @@ package edu.vanderbilt.cs.live2;
 public class GeoHash {
 
 	/**
-	 * This first live session will focus on basic Java and some concepts important to
+	 * This live session will focus on basic Java and some concepts important to
 	 * functional programming, such as recursion.
 	 *
 	 * This class uses a main() method where we can write our own simple "experiments" to
