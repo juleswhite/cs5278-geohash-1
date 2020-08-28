@@ -103,7 +103,7 @@ public class GeoHash {
 		// Example of hand-coding a 3-bit geohash
 
 		// 1st bit of the geohash
-		double longitude = -0.0;
+		double longitude = 0.0;
 		double[] bounds = {LONGITUDE_RANGE[0], LONGITUDE_RANGE[1]};
 		double midpoint = (bounds[0] + bounds[1]) / 2;
 		boolean bit = false;
