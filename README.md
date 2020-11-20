@@ -12,10 +12,6 @@ The topics that you will cover in this assignment are:
   3. Java arrays
   4. Use of Java system libraries
   
-If you don't complete the assignment or your implementation has bugs, you
-still need to turn in  your partial / broken implementation to receive
-feedback. However, you should make sure that your work compiles. 
-
 There is an expectation that your programming skills are at a level that
 you can pick up new programming languages independently. This assignment
 is a very simple initial Java program. If you are new to Java and struggle 
@@ -31,6 +27,20 @@ Tip: Commit and push to your repository frequently so that the instructor
 can see your incremental work. Particularly for people that struggle 
 with the assignment, lots of commits will show the effort that you put
 in and raise your score. 
+
+## Running the Tests
+
+The tests for the assignment are contained in the edu.vanderbilt.cs.GeoHashTest
+class. You can run this class as a JUnit test in your IDE or from the 
+command line using "gradle test". Every time that you commit and push
+to GitHub, GitHub Actions will compile and test your code. You can 
+view the results on the "Actions" tab in your GitHub repository.
+
+## Grading 
+
+If you don't complete the assignment or your implementation has bugs, you
+still need to turn in  your partial / broken implementation to receive
+feedback. However, you should make sure that your work compiles. 
 
 Grading process:
    1. If you have a working implementation that passes all tests, you 
