@@ -41,10 +41,12 @@ public class GeoHash {
 
 		// @ToDo:
 		//
-		// Implement GeoHashing with a recursive algorithm for a single value (NOT! a
-		// latitude, longitude pair).
+		// Implement GeoHashing here for a single value (NOT! latitude, longitude pair).
 		//
-		// For now, this method only needs to "geohash" either latitute or longitude
+		// For those seeking an added challenge, use a recursive algorithm that uses a
+		// base case and does not pass around a result array.
+		//
+		// For now, this method only needs to "geohash" either latitude or longitude
 		// separately.
 		//
 		// You will be passed a valueToHash and a valueRange (e.g., the range of

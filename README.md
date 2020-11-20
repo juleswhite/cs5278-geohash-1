@@ -1,4 +1,4 @@
-# Live Session Overview
+# Overview
 
 This programming assignment will exercise your non-OO Java programming
 skills. For those new to Java, this exercise may be very difficult. 
@@ -16,10 +16,16 @@ If you don't complete the assignment or your implementation has bugs, you
 still need to turn in  your partial / broken implementation to receive
 feedback. However, you should make sure that your work compiles. 
 
-For those new to Java, completing the assignment will likely be an iterative
-process. You do not need to panic if you can't complete the assignment 
-prior to the second live session. There will be time to iterate on your
-code and receive a good grade.
+There is an expectation that your programming skills are at a level that
+you can pick up new programming languages independently. This assignment
+is a very simple initial Java program. If you are new to Java and struggle 
+with this assignment, you should:
+   1. Reach out to the instructor(s) to let them know
+   2. Work through the official Java Tutorial by Oracle:
+      https://docs.oracle.com/javase/tutorial/
+   3. Look at the next three assignments
+   4. Assess if you need to hold off on taking this class and take
+      time coming up to speed on Java instead
 
 Tip: Commit and push to your repository frequently so that the instructor
 can see your incremental work. Particularly for people that struggle 
@@ -27,14 +33,19 @@ with the assignment, lots of commits will show the effort that you put
 in and raise your score. Also, 
 
 Grading process:
-   1. If you have a working implementation, you will receive a 100
-   2. If you have a broken / incomplete implementation, code comments will
-      be inserted into your work with suggestions on what to improve.
-   3. If you receive comments, you will need to address the comments
+   1. If you have a working implementation that passes all tests, you 
+      will receive a 100
+   2. If you have a broken / incomplete implementation, your grade will
+      be based on the number of tests that your code passes and the
+      overall code quality.
+   3. You may receive a pull request with code comments specifying
+      aspects of your solution that you need to improve.
+   4. If you receive comments, you will need to address the comments
       and commit the updated version within a week of receiving the
       comments.
-   4. You may receive multiple rounds of comments.
-   5. Once the final version is committed, you will be given a grade.
+   5. You may receive multiple rounds of comments before receiving a
+      grade.
+  
    
 What to do:
    1. See the edu.vanderbilt.cs.live2.GeoHash class for instructions
