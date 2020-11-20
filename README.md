@@ -30,7 +30,7 @@ with this assignment, you should:
 Tip: Commit and push to your repository frequently so that the instructor
 can see your incremental work. Particularly for people that struggle 
 with the assignment, lots of commits will show the effort that you put
-in and raise your score. Also, 
+in and raise your score. 
 
 Grading process:
    1. If you have a working implementation that passes all tests, you 
