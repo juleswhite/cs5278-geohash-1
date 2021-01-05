@@ -64,7 +64,7 @@ public class GeoHash {
 
 		// @ToDo:
 		//
-		// Separately compute indvidual 1D geohashes for v1 and v2 and then interleave them together
+		// Separately compute individual 1D geohashes for v1 and v2 and then interleave them together
 		// into a final combined geohash.
 		//
 		// The resulting geohash should have the number of bits specified by bitsOfPrecision.
